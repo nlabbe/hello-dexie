@@ -1,0 +1,18 @@
+{
+  "name": "hello-dexie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dexie": "^2.0.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.1"
+  }
+}
